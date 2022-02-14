@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 
+
+Link to old GitHub Account: https://www.github.com/yjie28
+
+I will come back and make this nicer I promise :) 
 
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
