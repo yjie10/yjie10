@@ -4,7 +4,7 @@ Link to old GitHub Account(s): <br />
 https://www.github.com/yjie28 <br />
 https://github.com/y-jie28 (For learning Vue)
 
-I will come back and make this nicer I promise :) 
+
 
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ꧁ Project Demos ꧂
+🦊 __Full Stack / Front End Focus:__ <br />
+[PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br />
+[Face Recognition Brain](https://facerecog-brn.herokuapp.com)
+
+🐰 __Mini Projects:__ <br />
+[Fish and Bites](https://yjie28.github.io/fish-and-bite/)
