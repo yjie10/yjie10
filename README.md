@@ -1,4 +1,4 @@
-### Hello there! 
+### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
 Link to old GitHub Account(s): <br />
 https://www.github.com/yjie28 <br />
@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 [Face Recognition Brain](https://facerecog-brn.herokuapp.com)
 
 🐰 __Mini Projects:__ <br />
-[Fish and Bites](https://yjie28.github.io/fish-and-bite/)
+[Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
 
 🦋 __Working On:__ <br />
 [Web Dev Notes](https://github.com/yjie10/project-notes)
+
+###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
+<a href="https://linkedin.com/in/yjie28">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
