@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 
 🐰 __Mini Projects:__ <br />
 [Fish and Bites](https://yjie28.github.io/fish-and-bite/)
+
+🦋 __Working On:__ <br />
+[Web Dev Notes](https://github.com/yjie10/project-notes)
