@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
 
 🦋 __Working On:__ <br />
-[Web Dev Notes](yjie10.github.io/webdev-review/)
+[Web Dev Notes](https://yjie10.github.io/webdev-review/)
 
 ###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
 <a href="https://linkedin.com/in/yjie28">
