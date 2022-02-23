@@ -1,6 +1,7 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
 Link to old GitHub Account(s): <br />
+https://github.com/sataivlis (very old stuff, school) <br />
 https://www.github.com/yjie28 (old stuff) <br />
 https://github.com/y-jie28 (For learning Vue)
 
