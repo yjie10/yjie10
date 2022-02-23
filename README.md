@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-#### ~~Totally Unnecessary Information~~ but ... •͈˽ •͈
-English / 中文 (Chinese) / 日本語 (Japanese) OK. 
+<!-- #### ~~Totally Unnecessary Information~~ but ... •͈˽ •͈
+English / 中文 (Chinese) / 日本語 (Japanese) OK. -->
