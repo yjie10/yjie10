@@ -3,7 +3,7 @@
 Link to old GitHub Account(s): <br />
 https://github.com/sataivlis (very old school stuff) <br />
 https://www.github.com/yjie28 (old stuff) <br />
-https://github.com/y-jie28 (For learning Vue)
+https://github.com/y-jie28 (for learning Vue / pause)
 
 
 
