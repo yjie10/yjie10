@@ -1,11 +1,12 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
+This is Yiying, located in Los Angeles, CA. <br />
+I'm a Front End / Full Stack Engineer. 
+
 Link to old GitHub Account(s): <br />
 https://github.com/sataivlis (very old school stuff) <br />
 https://www.github.com/yjie28 (old stuff) <br />
 https://github.com/y-jie28 (for learning Vue / pause)
-
-
 
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,3 +38,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+#### ~~Totally Unnecessary Information~~ but ... •͈˽ •͈
+English / 中文 (Chinese) / 日本語 (Japanese) OK. 
