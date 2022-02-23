@@ -6,7 +6,7 @@ I'm a Front End / Full Stack Engineer.
 Link to old GitHub Account(s): <br />
 https://github.com/sataivlis (very old school stuff) <br />
 https://www.github.com/yjie28 (old stuff) <br />
-https://github.com/y-jie28 (for learning Vue / pause)
+https://github.com/y-jie28 (for learning Vue / on pause)
 
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
