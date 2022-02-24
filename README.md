@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 [Web Dev Notes](https://yjie10.github.io/webdev-review/)
 
 ### 🌱 I Spend My Time On 🌲
-Learning. ✨
+__Learning.__ ✨
+
+↓ && ↓
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> 
