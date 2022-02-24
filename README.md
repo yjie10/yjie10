@@ -40,6 +40,9 @@ Learning. ✨
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> 
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 ###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
 <a href="https://linkedin.com/in/yjie28">
