@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### ꧁ Project Demos ꧂
 🦊 __Full Stack / Front End:__ <br />
-[PKMN Center Online (Optimization IP)](https://pkmn-centerol.herokuapp.com/) <br />
+[PKMN Center Online _(Optimization In Progress)_](https://pkmn-centerol.herokuapp.com/) <br />
 [Face Recognition Brain](https://facerecog-brn.herokuapp.com)
 
 🐰 __Mini Projects:__ <br />
