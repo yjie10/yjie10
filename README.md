@@ -1,7 +1,7 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
 This is Yiying, located in Los Angeles, CA. <br />
-I'm a Front End / Full Stack Engineer. 
+I'm a Front End Engineer aiming to become a Full Stack Engineer. 
 
 Link to old GitHub Account(s): <br />
 https://github.com/sataivlis (very old school stuff) <br />
@@ -34,10 +34,18 @@ Here are some ideas to get you started:
 🦋 __Working On:__ <br />
 [Web Dev Notes](https://yjie10.github.io/webdev-review/)
 
+### 🌱 I Spend My Time On 🌲
+Learning. ✨
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> 
+</p>
+  
 ###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<!-- #### ~~Totally Unnecessary Information~~ but ... •͈˽ •͈
-English / 中文 (Chinese) / 日本語 (Japanese) OK. -->
+### Some Personal Stuffs ... ଘ(੭ˊᵕˋ)੭
+- 📝 You can find a copy of my Résumé [here](https://drive.google.com/file/d/1P8GqHf0lFNiOSsgg6BBNWBdZpeXd1ywQ/view?usp=sharing). 
+- ⚡ English / 中文 (Mandarin & Shanghainese) / 日本語 (Japanese) OK.
