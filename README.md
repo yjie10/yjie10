@@ -3,11 +3,6 @@
 This is Yiying, located in Los Angeles, CA. <br />
 I'm a Front End Engineer aiming to become a Full Stack Engineer. 
 
-Link to old GitHub Account(s): <br />
-https://github.com/sataivlis (very old school stuff) <br />
-https://www.github.com/yjie28 (old stuff) <br />
-https://github.com/y-jie28 (for learning Vue / on pause)
-
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,6 +46,14 @@ No Activity tracked this Week
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<br />
+<br />
+
+Link to old GitHub Account(s): <br />
+https://github.com/sataivlis (very old school stuff) <br />
+https://www.github.com/yjie28 (old stuff) <br />
+https://github.com/y-jie28 (for learning Vue / on pause)
 
 ### Some Personal Stuffs ... ଘ(੭ˊᵕˋ)੭
 - 📝 You can find a copy of my Résumé [here](https://drive.google.com/file/d/1P8GqHf0lFNiOSsgg6BBNWBdZpeXd1ywQ/view?usp=sharing). 
