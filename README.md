@@ -1,7 +1,7 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
 This is Yiying, located in Los Angeles, CA. <br />
-I'm a Front End Engineer aiming to become a Full Stack Engineer. 
+I'm a Front End Engineer and walking down the path to become a Full Stack Engineer. 
 
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
