@@ -41,7 +41,8 @@ __Learning.__ ✨
 
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   26 mins         ███████████████████████▓░   94.76 % 
+SCSS         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 <!--END_SECTION:waka-->
   
