@@ -1,6 +1,6 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
-This is Yiying, located in Los Angeles, CA. <br />
+This is Yiying from Los Angeles, CA. <br />
 I'm a Front End Engineer and walking down the path to become a Full Stack Engineer. 
 
 <!--
