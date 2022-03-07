@@ -42,8 +42,8 @@ __Learning.__ ✨
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         10 hrs 22 mins  ████████████████████░░░░░   80.52 %
-Other        1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Ruby         10 hrs 49 mins  ████████████████████▒░░░░   81.18 %
+Other        1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
 ```
 
 <!--END_SECTION:waka-->
