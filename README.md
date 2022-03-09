@@ -1,7 +1,6 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
 This is Yiying from Los Angeles, CA. <br />
-I'm a Front End Engineer and walking down the path to become a Full Stack Engineer. 
 
 <!--
 **yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +36,7 @@ __Learning.__ ✨
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" /> 
 </p>
 
 <!--START_SECTION:waka-->
@@ -62,5 +62,5 @@ https://www.github.com/yjie28 (old stuff) <br />
 https://github.com/y-jie28 (for learning Vue / on pause)
 
 ### Some Personal Stuffs ... ଘ(੭ˊᵕˋ)੭
-- 📝 You can find a copy of my Résumé [here](https://drive.google.com/file/d/1P8GqHf0lFNiOSsgg6BBNWBdZpeXd1ywQ/view?usp=sharing). 
+<!-- - 📝 You can find a copy of my Résumé [here](https://drive.google.com/file/d/1P8GqHf0lFNiOSsgg6BBNWBdZpeXd1ywQ/view?usp=sharing).  -->
 - ⚡ English / 中文 (Mandarin & Shanghainese) / 日本語 (Japanese) OK.
