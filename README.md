@@ -1,12 +1,8 @@
 ### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
 
-This is Yiying from Los Angeles, CA. <br />
+This is Yiying (She/Her) from Los Angeles, CA. <br />
 
 <!--
-**yjie10/yjie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,14 +25,15 @@ Here are some ideas to get you started:
 [Web Dev Notes](https://yjie10.github.io/webdev-review/)
 
 ### 🌱 I Spend My Time On 🌲
-__Learning.__ ✨
+✏️ __Learning__ ✨
 
-↓ && ↓
+↓ ★ ↓
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" /> 
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" />  -->
 </p>
 
 <!--START_SECTION:waka-->
