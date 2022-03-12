@@ -36,13 +36,13 @@ This is Yiying (She/Her) from Los Angeles, CA. <br />
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" />  -->
 </p>
 
-<!--START_SECTION:waka-->
+<!--START_PAUSE_SECTION:wa_ka-->
 
 ```text
 Ruby   1 hr 3 mins     █████████████████████████   100.00 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_PAUSE_SECTION:wa_ka-->
   
 ###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
 <a href="https://linkedin.com/in/yjie28">
