@@ -39,8 +39,7 @@ This is Yiying (She/Her) from Los Angeles, CA. <br />
 <!--START_SECTION:waka-->
 
 ```text
-Ruby    3 hrs 31 mins   █████████████████▓░░░░░░░   71.09 %
-Other   1 hr 25 mins    ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+Ruby   1 hr 3 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
