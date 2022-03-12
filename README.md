@@ -38,10 +38,6 @@ This is Yiying (She/Her) from Los Angeles, CA. <br />
 
 <!--START_PAUSE_SECTION:wa_ka-->
 
-```text
-Ruby   1 hr 3 mins     █████████████████████████   100.00 %
-```
-
 <!--END_PAUSE_SECTION:wa_ka-->
   
 ###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
