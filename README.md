@@ -13,15 +13,15 @@ This is Yiying (She/Her) from Los Angeles, CA. <br />
 - ⚡ Fun fact: ...
 -->
 
-### ꧁ Project Demos ꧂
-🦊 __Full Stack / Front End:__ <br />
-[PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br />
+<!-- ### ꧁ Project Demos ꧂ -->
+<!-- 🦊 __Full Stack / Front End:__ <br /> -->
+<!-- [PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br /> -->
 <!-- [Face Recognition Brain](https://facerecog-brn.herokuapp.com) -->
 
-🐰 __Mini Projects:__ <br />
-[Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
+<!-- 🐰 __Mini Projects:__ <br /> -->
+<!-- [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/) -->
 
-🦋 __Working On:__ <br />
+### 🕊 Working On
 <!-- [Web Dev Notes](https://yjie10.github.io/webdev-review/) -->
 ~ Preparing for New Job (｡･ω･｡)ﾉ♡ ~
 
