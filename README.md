@@ -55,4 +55,4 @@ https://github.com/y-jie28 (for learning Vue / on pause)
 
 ### Some Personal Stuffs ... ଘ(੭ˊᵕˋ)੭
 <!-- - 📝 You can find a copy of my Résumé [here](https://drive.google.com/file/d/1P8GqHf0lFNiOSsgg6BBNWBdZpeXd1ywQ/view?usp=sharing).  -->
-- ⚡ English / 中文 (Mandarin & Shanghainese) / 日本語 (Japanese) OK.
+⚡ English / 中文 (Mandarin & Shanghainese) / 日本語 (Japanese) OK.
