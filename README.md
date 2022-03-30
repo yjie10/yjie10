@@ -23,7 +23,7 @@ This is Yiying (She/Her) from Los Angeles, CA. <br />
 
 ### 🕊 Working On
 <!-- [Web Dev Notes](https://yjie10.github.io/webdev-review/) -->
-~ Preparing for New Job (｡･ω･｡)ﾉ♡ ~
+~ Learning Ruby/RoR for new job (｡･ω･｡)ﾉ♡ ~
 
 ### 🌱 I Spend My Time On 🌲
 ✏️ __Learning__ ✨
