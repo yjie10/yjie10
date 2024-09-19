@@ -1,4 +1,4 @@
-### ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ Hello there! 
+### Hello there! 
 
 <!-- This is Yiying (She/Her) from Los Angeles, CA. <br /> -->
 
@@ -24,8 +24,6 @@ Not much going on right now ... working on getting back on track ...
 <!-- [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/) -->
 
 <!-- ### 🕊 Working On -->
-<!-- [Web Dev Notes](https://yjie10.github.io/webdev-review/) -->
-<!-- ~ Learning Ruby/RoR for work (｡･ω･｡)ﾉ♡ ~ -->
 
 <!-- ### 🌱 I Spend My Time On 🌲 -->
 <!-- ✏️ __Learning__ ✨ -->
@@ -42,7 +40,7 @@ Not much going on right now ... working on getting back on track ...
 
 <!--END_PAUSE_SECTION:wa_ka-->
   
-###  ꒰⑅°͈꒳​°͈꒱ Find Me Here Too ʕ̯•͡ˑ͓•̯᷅ʔ ​​​
+### ​​​Find Me Here Too
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -53,8 +51,4 @@ Not much going on right now ... working on getting back on track ...
 Link to old GitHub Account(s): <br />
 https://github.com/sataivlis (very old school stuff) <br />
 https://www.github.com/yjie28 (old stuff) <br />
-https://github.com/y-jie28 (for learning Vue / on pause)
-
-<!-- ### Some Personal Stuffs ... ଘ(੭ˊᵕˋ)੭ -->
-<!-- - 📝 You can find a copy of my Résumé [here](https://drive.google.com/file/d/1P8GqHf0lFNiOSsgg6BBNWBdZpeXd1ywQ/view?usp=sharing).  -->
-<!-- ⚡ English / 中文 (Mandarin & Shanghainese) / 日本語 (Japanese) OK. -->
+<!-- https://github.com/y-jie28 (for learning Vue / on pause) -->
