@@ -1,8 +1,9 @@
-### Hello there! 
+### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-<!-- This is Yiying (She/Her) from Los Angeles, CA. <br /> -->
+This is Yiying (She/Her) from Los Angeles, CA. <br />
 
-Not much going on right now ... working on getting back on track ...
+02.2025
+Constructing ... appears empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
 
 <!--
 - 🔭 I’m currently working on ...
@@ -40,7 +41,7 @@ Not much going on right now ... working on getting back on track ...
 
 <!--END_PAUSE_SECTION:wa_ka-->
   
-### ​​​Find Me Here Too
+### ​​​Find Me Here Too ꉂ(ˊᗜˋ*)
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -48,7 +49,7 @@ Not much going on right now ... working on getting back on track ...
 <br />
 <br />
 
-Link to old GitHub Account(s): <br />
-https://github.com/sataivlis (very old school stuff) <br />
-https://www.github.com/yjie28 (old stuff) <br />
+<!-- Link to old GitHub Account(s): <br /> -->
+<!-- https://github.com/sataivlis (very old school stuff) <br /> -->
+<!-- https://www.github.com/yjie28 (old stuff) <br /> -->
 <!-- https://github.com/y-jie28 (for learning Vue / on pause) -->
