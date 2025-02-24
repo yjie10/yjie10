@@ -21,8 +21,8 @@ Constructing ... appears empty for the moment but should get more interesting so
 <!-- [PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br /> -->
 <!-- [Face Recognition Brain](https://facerecog-brn.herokuapp.com) -->
 
-<!-- 🐰 __Mini Projects:__ <br /> -->
-<!-- [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/) -->
+🐰 __Mini Projects:__ <br />
+[Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
 
 <!-- ### 🕊 Working On -->
 
@@ -41,7 +41,7 @@ Constructing ... appears empty for the moment but should get more interesting so
 
 <!--END_PAUSE_SECTION:wa_ka-->
   
-### ​​​Find Me Here Too ꉂ(ˊᗜˋ*)
+### ​​​↓ Find Me Here Too ↓
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
