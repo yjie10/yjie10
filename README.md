@@ -37,9 +37,10 @@ Constructing ... appears empty for the moment but should get more interesting so
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" />  -->
 <!-- </p> -->
 
-<!--START_PAUSE_SECTION:wa_ka-->
 
-<!--END_PAUSE_SECTION:wa_ka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   
 ### ​​​↓ Find Me Here Too ↓
 <a href="https://linkedin.com/in/yjie28">
