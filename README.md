@@ -39,6 +39,15 @@ Constructing ... appears empty for the moment but should get more interesting so
 
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   3 hrs 34 mins   ███████████████████░░░░░░   75.73 %
+Markdown     1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
   
