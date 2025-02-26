@@ -37,6 +37,7 @@ Constructing ... appears empty for the moment but should get more interesting so
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" />  -->
 <!-- </p> -->
 
+WakaTime⏰
 
 <!--START_SECTION:waka-->
 
