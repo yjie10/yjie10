@@ -42,11 +42,11 @@ Constructing ... appears empty for the moment but should get more interesting so
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 17 mins   █████████████████▒░░░░░░░   68.96 %
-JavaScript   45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     2 hrs 51 mins   █████████████████▓░░░░░░░   71.12 %
+JavaScript   50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
