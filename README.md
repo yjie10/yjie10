@@ -9,22 +9,18 @@
 
 This is Yiying (She/Her) from Los Angeles, CA. <br />
 
-02.2025
-Constructing ... appears empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
+03.2025
+Constructing & Organizing ... appears empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
 
 <!-- ### ꧁ Project Demos ꧂ -->
 <!-- 🦊 __Full Stack / Front End:__ <br /> -->
 <!-- [PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br /> -->
 <!-- [Face Recognition Brain](https://facerecog-brn.herokuapp.com) -->
 
-<!-- $ whoami -->
-<!-- > A software engineer who loves debugging and solving puzzles! 🔍 -->
+#
 
-<!-- $ ls ~/projects <br /> -->
-<!-- 📂 [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/) -->
-
-<!-- $ cat ~/contact-info <br /> -->
-<!-- 💼 LinkedIn: [linkedin.com/in/yjie28](https://www.linkedin.com/in/yjie28/) -->
+### Find Me Here Too (●'◡'●)
+💼 LinkedIn: [linkedin.com/in/yjie28](https://www.linkedin.com/in/yjie28/)
 
 #
 
@@ -32,10 +28,6 @@ Constructing ... appears empty for the moment but should get more interesting so
 [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
 
 <!-- ### 🕊 Working On -->
-
-<!-- ### 🌱 I Spend My Time On 🌲 -->
-<!-- ✏️ __Learning__ ✨ -->
-
 
 <!-- <p align="left"> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> -->
