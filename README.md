@@ -42,7 +42,8 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text   4 mins          ████████████████████████▒   97.18 %
+JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
