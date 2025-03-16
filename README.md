@@ -7,8 +7,6 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-This is Yiying (She/Her) from Los Angeles, CA. <br />
-
 03.2025
 Constructing & Organizing ... appears empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
 
@@ -19,15 +17,8 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 
 #
 
-### Find Me Here Too (●'◡'●)
-💼 LinkedIn: [linkedin.com/in/yjie28](https://www.linkedin.com/in/yjie28/)
-
-#
-
 ### 🐰 __Mini Projects:__ <br />
 [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
-
-<!-- ### 🕊 Working On -->
 
 <!-- <p align="left"> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> -->
@@ -53,10 +44,8 @@ JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░
 <!--  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> -->
 <!-- </a> -->
 
-<br />
-<br />
+#
 
-<!-- Link to old GitHub Account(s): <br /> -->
-<!-- https://github.com/sataivlis (very old school stuff) <br /> -->
-<!-- https://www.github.com/yjie28 (old stuff) <br /> -->
-<!-- https://github.com/y-jie28 (for learning Vue / on pause) -->
+### Find Me Here Too (●'◡'●)
+💼 LinkedIn: [linkedin.com/in/yjie28](https://www.linkedin.com/in/yjie28/) <br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="react" width="20" height="20" /> Old GitHub Account: [yjie28(old stuff)](https://www.github.com/yjie28)
