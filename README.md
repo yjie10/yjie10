@@ -17,7 +17,7 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 
 #
 
-### 🐰 __Mini Projects:__ <br />
+### Mini Projects 🍓 <br />
 [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
 
 <!-- <p align="left"> -->
