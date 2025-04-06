@@ -1,3 +1,4 @@
+<!-- ASCII header for fun! -->
 ```
 ,--.   ,--.       ,--.                               
 |  |   |  | ,---. |  | ,---. ,---. ,--,--,--. ,---.  
@@ -10,6 +11,7 @@
 03.2025
 Constructing & Organizing ... appears empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
 
+<!-- TODO: Restore project links once hosting is fixed -->
 <!-- ### ꧁ Project Demos ꧂ -->
 <!-- 🦊 __Full Stack / Front End:__ <br /> -->
 <!-- [PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br /> -->
@@ -28,7 +30,8 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 
 #
 
-### WakaTime ⏰
+### WakaTime ⏰  
+> Automated coding time tracker powered by [WakaTime](https://wakatime.com)
 
 <!--START_SECTION:waka-->
 
@@ -49,6 +52,23 @@ HTML         5 mins          ▒░░░░░░░░░░░░░░░░
 
 #
 
-### Find Me Here Too (●'◡'●)
-💼 LinkedIn: [linkedin.com/in/yjie28](https://www.linkedin.com/in/yjie28/) <br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="react" width="20" height="20" /> Old GitHub Account: [yjie28(old stuff)](https://www.github.com/yjie28)
+### Find Me Here 🐾
+
+<a href="https://www.linkedin.com/in/yjie28" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" style="vertical-align: middle; margin-right: 4px;" />
+  linkedin.com/in/yjie28
+</a>
+
+<br />
+
+<a href="https://www.github.com/yjie28" target="_blank">
+  <picture style="vertical-align: middle;">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" media="(prefers-color-scheme: dark)" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="20" style="vertical-align: middle; margin-right: 4px;" />
+  </picture>
+  github.com/yjie28 (old stuff)
+</a>
+
+#
+
+Thanks for dropping by! ૮₍ ´• ˕ •` ₎ა
