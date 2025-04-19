@@ -19,6 +19,15 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 
 #
 
+### Languages & Tools 🛠
+
+[![Ruby](https://img.shields.io/badge/Ruby-red?style=flat&logo=ruby&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![Rails](https://img.shields.io/badge/Rails-cc0000?style=flat&logo=rubyonrails&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
+
+#
+
 ### Mini Projects 🍓 <br />
 [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
 
@@ -53,21 +62,8 @@ XML          31 mins         █░░░░░░░░░░░░░░░░
 #
 
 ### Find Me Here 🐾
-
-<a href="https://www.linkedin.com/in/yjie28" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" style="vertical-align: middle; margin-right: 4px;" />
-  linkedin.com/in/yjie28
-</a>
-
-<br />
-
-<a href="https://www.github.com/yjie28" target="_blank">
-  <picture style="vertical-align: middle;">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" media="(prefers-color-scheme: dark)" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="20" style="vertical-align: middle; margin-right: 4px;" />
-  </picture>
-  github.com/yjie28 (old stuff)
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjie28)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjie28 "Old GitHub – some archived projects from before 2022")
 
 #
 
