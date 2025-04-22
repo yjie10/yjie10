@@ -45,11 +45,11 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         5 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   42.14 %
-ERB          4 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 %
-Markdown     2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Other        1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-XML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Ruby         5 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.72 %
+ERB          4 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+Markdown     2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Other        1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+XML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
