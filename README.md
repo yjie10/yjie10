@@ -45,11 +45,11 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 8 mins    ████████████░░░░░░░░░░░░░   47.97 %
-ERB          2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-Ruby         57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Markdown     57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript   6 hrs 26 mins   ███████████████████░░░░░░   76.34 %
+Markdown     52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+CSS          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Ruby         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
