@@ -46,10 +46,9 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.22 %
-Markdown     4 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.86 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown     4 hrs 1 min     ██████████████▓░░░░░░░░░░   58.22 %
+JavaScript   2 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.54 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
