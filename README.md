@@ -8,16 +8,10 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-03.2025
-Constructing & Organizing ... appears empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
+05.2025
+Constructing & Organizing wip ... still appears a bit empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
 
-<!-- TODO: Restore project links once hosting is fixed -->
-<!-- ### ꧁ Project Demos ꧂ -->
-<!-- 🦊 __Full Stack / Front End:__ <br /> -->
-<!-- [PKMN Center Online](https://pkmn-centerol.herokuapp.com/) <br /> -->
-<!-- [Face Recognition Brain](https://facerecog-brn.herokuapp.com) -->
-
-#
+---
 
 ### Languages & Tools 🛠
 
@@ -27,18 +21,14 @@ Constructing & Organizing ... appears empty for the moment but should get more i
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)]()
 
-#
+---
 
 ### Mini Projects 🍓 <br />
-[Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/)
+<!-- [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/) -->
+[Meowrank (Cat-themed Ranking Board 🐈‍⬛)](https://meowrank.netlify.app/) <br />
+[Eternal Spring (Number Guessing Game 🎲)](https://eternal-spring.netlify.app/)
 
-<!-- <p align="left"> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" />  -->
-<!-- </p> -->
-
-#
+---
 
 ### WakaTime ⏰  
 > Automated coding time tracker powered by [WakaTime](https://wakatime.com)
@@ -60,12 +50,12 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 <!--  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> -->
 <!-- </a> -->
 
-#
+---
 
 ### Find Me Here 🐾
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjie28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjie28 "Old GitHub – some archived projects from before 2022")
 
-#
+---
 
 Thanks for dropping by! ૮₍ ´• ˕ •` ₎ა
