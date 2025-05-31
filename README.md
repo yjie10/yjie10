@@ -36,11 +36,11 @@ Constructing & Organizing wip ... still appears a bit empty for the moment but s
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 48 mins   █████████████████░░░░░░░░   68.04 %
-Markdown     3 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JavaScript   7 hrs 10 mins   █████████████████▓░░░░░░░   70.52 %
+Markdown     2 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
+TypeScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
