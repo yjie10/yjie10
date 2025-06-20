@@ -8,8 +8,14 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-05.2025
-Constructing & Organizing wip ... still appears a bit empty for the moment but should get more interesting soon!!! ฅ՞•ﻌ•՞ฅ 
+`06.2025` <br /> 
+Still construction and organizing ✨ <br />
+Not a lot of big shiny projects (yet!) - but steadily learning 🐾
+
+#### Currently working on ฅ՞•ﻌ•՞ฅ ... 🌱
+- `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair
+- `mofulab-reactjs`: Practicing React components (JSX only for now!)
+- `mofulab-rails`: Rails backend logic & mini API ideas
 
 ---
 
@@ -42,10 +48,7 @@ Markdown     2 hrs 31 mins   █████████░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-  
-<!-- <a href="https://linkedin.com/in/yjie28"> -->
-<!--  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> -->
-<!-- </a> -->
+💬 _P.S. If you're wondering why there's so much time spent on Markdown... I take **all** my notes in Markdown :3_
 
 ---
 
