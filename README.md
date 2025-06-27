@@ -14,8 +14,9 @@ Not a lot of big shiny projects (yet!) - but steadily learning 🐾
 
 #### Currently working on ฅ՞•ﻌ•՞ฅ ... 🌱
 - `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair
-- `mofulab-reactjs`: Practicing React components (JSX only for now!)
-- `mofulab-rails`: Rails backend logic & mini API ideas
+- `mofulab8210`: Personal website / playground 🧪
+<!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
+<!-- - `mofulab-rails`: Rails backend logic & mini API ideas -->
 
 ---
 
