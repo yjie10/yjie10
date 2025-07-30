@@ -37,7 +37,7 @@ Not a lot of big shiny projects (yet!) - but steadily learning 🐾
 
 ---
 
-### WakaTime 🕰️  
+### WakaTime for the Month 🕰️  
 > Automated coding time tracker powered by [WakaTime](https://wakatime.com)
 
 <!--START_SECTION:waka-->
