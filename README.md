@@ -8,7 +8,7 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-`07.2025` <br /> 
+`08.2025` <br /> 
 Still construction and organizing ✨ <br />
 Not a lot of big shiny projects (yet!) - but steadily learning 🐾
 
