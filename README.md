@@ -22,11 +22,19 @@ Not a lot of big shiny projects (yet!) - but steadily learning 🐾
 
 ### Languages & Tools 🛠
 
-[![Ruby](https://img.shields.io/badge/Ruby-red?style=flat&logo=ruby&logoColor=white)]()
+#### Actively Using 🧪
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
-[![Rails](https://img.shields.io/badge/Rails-cc0000?style=flat&logo=rubyonrails&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
+[![Ruby](https://img.shields.io/badge/Ruby-red?style=flat&logo=ruby&logoColor=white)]()
+[![Rails](https://img.shields.io/badge/Rails-cc0000?style=flat&logo=rubyonrails&logoColor=white)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)]()
+
+#### Used Before / Less Recent 🕰️
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)]()
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)]()
 
 ---
 
