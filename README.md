@@ -11,12 +11,11 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-`08.2025` <br /> 
-Still construction and organizing ✨ <br />
-Not a lot of big shiny projects (yet!) - but steadily learning 🐾
+˚₊‧꧁`08.2025`꧂‧₊˚<br />
+**Status**: Steadily learning 🐾
 
 #### Currently working on ฅ՞•ﻌ•՞ฅ ... 🌱
-- `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair
+<!-- - `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair -->
 - `mofulab8210`: Personal website / playground 🧪 (beta v1.0 is done!! 🎉)
 <!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
 <!-- - `mofulab-rails`: Rails backend logic & mini API ideas -->
