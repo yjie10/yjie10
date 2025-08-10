@@ -16,7 +16,7 @@
 
 #### Currently working on ฅ՞•ﻌ•՞ฅ ... 🌱
 <!-- - `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair -->
-- `mofulab8210`: Personal website / playground 🧪 (beta v1.0 is done!! 🎉)
+- `mofulab8210`: Personal website / playground 🧪 (beta v2.0 is done!! 🎉)
 <!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
 <!-- - `mofulab-rails`: Rails backend logic & mini API ideas -->
 
