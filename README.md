@@ -12,13 +12,15 @@
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
 ˚₊‧꧁`08.2025`꧂‧₊˚<br />
-**Status**: Steadily learning 🐾
 
-#### Currently working on ฅ՞•ﻌ•՞ฅ ... 🌱
+
+**★ Status** <br />
+‣ steady growth & occasional chaos ᓚᘏᗢ <br />
+
+**★ Active Projects**
 <!-- - `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair -->
-- `mofulab8210`: Personal website / playground (beta v2.0 is done!! 🎉)
+‣ `mofulab8210`: personal website / playground (beta v2.0 launched!! 🎉)
 <!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
-<!-- - `mofulab-rails`: Rails backend logic & mini API ideas -->
 
 ---
 
@@ -34,7 +36,6 @@
 ---
 
 ### Mini Projects 🍓 <br />
-<!-- [Fish and Bites (Number Guessing Game)](https://yjie28.github.io/fish-and-bite/) -->
 [Meowrank (Cat-themed Ranking Board 🐈‍⬛)](https://meowrank.netlify.app/) <br />
 [Eternal Spring (Number Guessing Game 🎲)](https://eternal-spring.netlify.app/)
 
@@ -61,10 +62,10 @@ Other        27 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-### Find Me Here 🐾
+### Find Me Here Too 🐾
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjie28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjie28 "Old GitHub – some archived projects from before 2022")
 
 ---
 
-Thanks for dropping by! ૮₍ ´• ˕ •` ₎ა
+Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
