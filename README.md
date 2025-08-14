@@ -11,20 +11,32 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
-˚₊‧꧁`08.2025`꧂‧₊˚<br />
+˚₊‧꧁`08.2025`꧂‧₊˚
 
+ᓚᘏᗢ _steady growth & occasional chaos_ ᗢᘏᓚ
 
-**★ Status** <br />
-‣ steady growth & occasional chaos ᓚᘏᗢ <br />
-
-**★ Active Projects**
-<!-- - `lc-spellbook`: Leetcode notes with a little 🤏 spellbook flair -->
-‣ `mofulab8210`: personal website / playground (beta v2.0 launched!! 🎉)
-<!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
 
 ---
 
-### Languages & Tools 🛠
+
+### 🧶 Projects & Playground
+
+#### Active
+
+- `lc-spellbook`: Leetcode note collection 🪄 (try) updated every Tuesday & Thursday
+- `mofulab8210`: personal website / playground (beta v2.0 launched!! 🎉)
+<!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
+
+#### Finished
+
+- [Meowrank (Cat-themed Ranking Board 🐈‍⬛)](https://meowrank.netlify.app/)
+- [Eternal Spring (Number Guessing Game 🎲)](https://eternal-spring.netlify.app/)
+
+
+---
+
+
+### 🛠 Languages & Tools
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
@@ -33,15 +45,12 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)]()
 
----
-
-### Mini Projects 🍓 <br />
-[Meowrank (Cat-themed Ranking Board 🐈‍⬛)](https://meowrank.netlify.app/) <br />
-[Eternal Spring (Number Guessing Game 🎲)](https://eternal-spring.netlify.app/)
 
 ---
 
-### WakaTime for the Month 🕰️  
+
+### 🕰️ WakaTime for the Month
+
 > Automated coding time tracker powered by [WakaTime](https://wakatime.com)
 
 <!--START_SECTION:waka-->
@@ -58,14 +67,21 @@ Other        27 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-💬 _P.S. If you're wondering why there's so much time spent on Markdown... I take **all** my notes in Markdown :3_
+💬 _P.S. I take **all** my notes in Markdown :3_
+
 
 ---
 
-### Find Me Here Too 🐾
+
+### 🐾 Find Me Here Too
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjie28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjie28 "Old GitHub – some archived projects from before 2022")
 
+
 ---
 
+
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
+
+`Last updated: Aug 14, 2025`
