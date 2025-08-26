@@ -11,6 +11,12 @@
 ```
 ### Hello there! ✧⁺⸜(˙▾˙)⸝⁺✧
 
+I'm **Yiying**, a full-stack developer. 
+
+Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🎐
+
+✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ✦ • ⋆ ☁︎ • ⋆ ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ☁︎ • 
+
 ˚₊‧꧁`08.2025`꧂‧₊˚
 
 ᓚᘏᗢ _steady growth & occasional chaos_ ᗢᘏᓚ
@@ -21,13 +27,11 @@
 
 ### 🧶 Projects & Playground
 
-#### Active
-
 - `lc-spellbook`: Leetcode note collection 🪄 (try) updated every Tuesday & Thursday
 - `mofulab8210`: personal website / playground (beta v2.0 launched!! 🎉)
 <!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
 
-#### Finished
+**Demo-ready**:
 
 - [Meowrank (Cat-themed Ranking Board 🐈‍⬛)](https://meowrank.netlify.app/)
 - [Eternal Spring (Number Guessing Game 🎲)](https://eternal-spring.netlify.app/)
@@ -49,7 +53,7 @@
 ---
 
 
-### 🕰️ WakaTime for the Month
+### ⏳ WakaTime for the Month
 
 > Automated coding time tracker powered by [WakaTime](https://wakatime.com)
 
@@ -84,4 +88,4 @@ JSON         2 hrs 20 mins   🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Aug 14, 2025`
+`Last updated: Aug 25, 2025`
