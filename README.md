@@ -17,24 +17,11 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ✦ • ⋆ ☁︎ • ⋆ ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ☁︎ • 
 
-˚₊‧꧁`08.2025`꧂‧₊˚
+˚₊‧꧁`August 2025`꧂‧₊˚
 
 ᓚᘏᗢ _steady growth & occasional chaos_ ᗢᘏᓚ
 
-
----
-
-
-### 🧶 Projects & Playground
-
-- `lc-spellbook`: Leetcode note collection 🪄 (try) updated every Tuesday & Thursday
-- `mofulab8210`: personal website / playground (beta v2.0 launched!! 🎉)
-<!-- - `mofulab-reactjs`: Practicing React components (JSX only for now!) -->
-
-**Demo-ready**:
-
-- [Meowrank (Cat-themed Ranking Board 🐈‍⬛)](https://meowrank.netlify.app/)
-- [Eternal Spring (Number Guessing Game 🎲)](https://eternal-spring.netlify.app/)
+⌘ grooming [lc-spellbook](https://github.com/yjie10/lc-spellbook) and [mofulab8210](https://mofulab8210.com/). 
 
 
 ---
@@ -88,4 +75,4 @@ JSON         2 hrs 20 mins   🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Aug 25, 2025`
+`Last updated: Aug 28, 2025`
