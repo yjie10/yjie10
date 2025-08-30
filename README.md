@@ -30,6 +30,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 ### 🛠 Languages & Tools
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![Ruby](https://img.shields.io/badge/Ruby-red?style=flat&logo=ruby&logoColor=white)]()
 [![Rails](https://img.shields.io/badge/Rails-cc0000?style=flat&logo=rubyonrails&logoColor=white)]()
@@ -75,4 +76,4 @@ JSON         2 hrs 17 mins   🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Aug 28, 2025`
+`Last updated: Aug 29, 2025`
