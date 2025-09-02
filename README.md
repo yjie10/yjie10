@@ -17,9 +17,9 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ✦ • ⋆ ☁︎ • ⋆ ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ☁︎ • 
 
-˚₊‧꧁`August 2025`꧂‧₊˚
+˚₊‧꧁`September 2025`꧂‧₊˚
 
-ᓚᘏᗢ _steady growth & occasional chaos_ ᗢᘏᓚ
+ᓚᘏᗢ _reset with purpose · rebalancing quietly_ ᗢᘏᓚ
 
 ⌘ grooming [lc-spellbook](https://github.com/yjie10/lc-spellbook) and [mofulab8210](https://mofulab8210.com/). 
 
@@ -76,4 +76,4 @@ JSON         2 hrs 17 mins   🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Aug 29, 2025`
+`Last updated: Sept 01, 2025`
