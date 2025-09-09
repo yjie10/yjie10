@@ -21,7 +21,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 ᓚᘏᗢ _reset with purpose · rebalancing quietly_ ᗢᘏᓚ
 
-⌘ grooming [lc-spellbook](https://github.com/yjie10/lc-spellbook) and [mofulab8210](https://mofulab8210.com/). 
+⌘ grooming [lc-spellbook](https://github.com/yjie10/lc-spellbook) and [inkveil-editor](https://github.com/yjie10/inkveil-editor). Update [mofulab8210](https://mofulab8210.com/) from time to time.
 
 
 ---
@@ -76,4 +76,4 @@ JSON         1 hr 47 mins    🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Sept 01, 2025`
+`Last updated: Sept 08, 2025`
