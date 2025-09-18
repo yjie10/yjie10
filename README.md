@@ -13,7 +13,7 @@
 
 I'm **Yiying**, a full-stack developer. 
 
-Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🎐
+Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🍁
 
 ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ✦ • ⋆ ☁︎ • ⋆ ✦ ⋆ • ☁︎ ☾ ⋆ • ⋆ ☁︎ • 
 
@@ -76,4 +76,4 @@ CSS          42 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Sept 08, 2025`
+`Last updated: Sept 18, 2025`
