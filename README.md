@@ -13,16 +13,13 @@
 
 I'm **Yiying**, a full-stack developer. 
 
-Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🎄🎁
+Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🎆🎊
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-˚₊‧꧁`December 2025`꧂‧₊˚
+˚₊‧꧁`January 2026`꧂‧₊˚
 
-ᓚᘏᗢ _roosting & reflecting_ ᗢᘏᓚ
-
-<!--⌘ grooming [lc-spellbook](https://github.com/yjie10/lc-spellbook) and [inkveil-editor](https://github.com/yjie10/inkveil-editor). Update [mofulab8210](https://mofulab8210.com/) from time to time.-->
-
+ᓚᘏᗢ _happy new year!_ ᗢᘏᓚ
 
 ---
 
@@ -77,4 +74,4 @@ Git Config   10 mins         🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Dec 25, 2025 🎄`
+`Last updated: Jan 1 Thu, 2026 🎄`
