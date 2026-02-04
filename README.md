@@ -17,9 +17,9 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-˚₊‧꧁`January 2026`꧂‧₊˚
+˚₊‧꧁`February 2026`꧂‧₊˚
 
-ᓚᘏᗢ _happy new year!_ ᗢᘏᓚ
+ᓚᘏᗢ _Learning & working on upgraded ver. of personal website..._ ᗢᘏᓚ
 
 ---
 
@@ -74,4 +74,4 @@ Other        14 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Jan 18 Thu, 2026 🍊`
+`Last updated: Feb 03 Thu, 2026 🍊`
