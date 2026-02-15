@@ -19,7 +19,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 ˚₊‧꧁`February 2026`꧂‧₊˚
 
-ᓚᘏᗢ _Learning & working on upgraded ver. of personal website..._ ᗢᘏᓚ
+ᓚᘏᗢ _Upgraded personal website beta ver. done. Brainstorming for the next project..._ ᗢᘏᓚ
 
 ---
 
@@ -74,4 +74,4 @@ CSS          3 hrs 8 mins    🟧🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Feb 03 Thu, 2026 🍊`
+`Last updated: Feb 15 Sun, 2026 🍊`
