@@ -46,13 +46,13 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 17 mins
+Total Time: 11 hrs 11 mins
 
-Markdown     7 hrs 54 mins         🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.05 %
-TypeScript   2 hrs 48 mins         🟧🟧🟧🟧🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.05 %
-MDX          2 hrs 6 mins          🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.84 %
-SCSS         41 mins               🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.18 %
-YAML         40 mins               🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.06 %
+Markdown     7 hrs 15 mins         🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜   64.84 %
+TypeScript   59 mins               🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.83 %
+YAML         43 mins               🟧🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.44 %
+SCSS         41 mins               🟧🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.14 %
+HTML         35 mins               🟧🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.33 %
 ```
 
 <!--END_SECTION:waka-->
