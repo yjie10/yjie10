@@ -13,7 +13,7 @@
 
 I'm **Yiying**, a full-stack developer. 
 
-Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🍀
+Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🌸
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
@@ -63,15 +63,6 @@ Other        0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 
-### 🐾 Find Me Here Too
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjie28)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjie28 "Old GitHub – some archived projects from before 2022")
-
-
----
-
-
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Mar 4 Sun, 2026 🌼`
+`Last updated: Mar 31 Tue, 2026 🌼`
