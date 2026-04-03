@@ -17,7 +17,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-˚₊‧꧁`March 2026`꧂‧₊˚
+˚₊‧꧁`April 2026`꧂‧₊˚
 
 ᓚᘏᗢ _Upgraded personal website beta ver. done. Brainstorming for the next project..._ ᗢᘏᓚ
 
@@ -65,4 +65,4 @@ SCSS         0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Mar 31 Tue, 2026 🌼`
+`Last updated: Apr 2 Thu, 2026 🌼`
