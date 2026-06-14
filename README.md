@@ -46,10 +46,9 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 0 secs
 
-Markdown   0 secs                🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟨⬜⬜⬜⬜⬜⬜   73.24 %
-MDX        0 secs                🟧🟧🟧🟧🟧🟧🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.76 %
+Markdown   0 secs                🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧   100.00 %
 ```
 
 <!--END_SECTION:waka-->
