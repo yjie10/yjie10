@@ -38,27 +38,6 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 ---
 
-
-### ⏳ WakaTime for the Month
-
-> Automated coding time tracker powered by [WakaTime](https://wakatime.com)
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-Markdown   0 secs                🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-💬 _P.S. I take **all** my notes in Markdown :3_
-
-
----
-
-
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: May 24 Sun, 2026 🌼`
+`Last updated: Jun 19 Fri, 2026 🌼`
