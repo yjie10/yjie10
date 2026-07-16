@@ -13,13 +13,13 @@
 
 I'm **Yiying**, a full-stack developer. 
 
-Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🌸
+Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🍨
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-<!-- ˚₊‧꧁`April 2026`꧂‧₊˚-->
+<!-- ˚₊‧꧁`July 2026`꧂‧₊˚-->
 
-ᓚᘏᗢ _Taking a break..._ ᗢᘏᓚ
+ᓚᘏᗢ _Back to learning (ง๑ •̀_•́)ง_ ᗢᘏᓚ
 
 ---
 
@@ -40,4 +40,4 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: Jun 19 Fri, 2026 🌼`
+`Last updated: July 16 Thu, 2026 🌻`
