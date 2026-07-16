@@ -19,7 +19,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 <!-- ˚₊‧꧁`July 2026`꧂‧₊˚-->
 
-ᓚᘏᗢ _Back to learning (ง๑ •̀_•́)ง_ ᗢᘏᓚ
+ᓚᘏᗢ _Back to learning (ง๑ •̀ _ •́)ง_ ᗢᘏᓚ
 
 ---
 
