@@ -17,7 +17,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-<!-- ˚₊‧꧁`July 2026`꧂‧₊˚-->
+˚₊‧꧁`July 2026`꧂‧₊˚
 
 ᓚᘏᗢ _Back to learning (ง๑ •̀ _ •́)ง_ ᗢᘏᓚ
 
@@ -35,6 +35,15 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)]()
 
+
+---
+
+### ⏳ WakaTime for the Month
+
+> Automated coding time tracker powered by [WakaTime](https://wakatime.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
