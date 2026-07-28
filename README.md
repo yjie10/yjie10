@@ -45,11 +45,11 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 18 mins
+Total Time: 13 hrs 36 mins
 
-Markdown     16 hrs 1 min          🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟨   98.20 %
-Git Config   9 mins                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.97 %
-Python       8 mins                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.83 %
+Markdown     13 hrs 18 mins        🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟨   97.85 %
+Git Config   9 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.16 %
+Python       8 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.00 %
 ```
 
 <!--END_SECTION:waka-->
