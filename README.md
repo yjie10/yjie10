@@ -17,7 +17,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-˚₊‧꧁`July 2026`꧂‧₊˚
+˚₊‧꧁`August 2026`꧂‧₊˚
 
 ᓚᘏᗢ _Back to learning (ง๑ •̀ _ •́)ง_ ᗢᘏᓚ
 
@@ -58,4 +58,4 @@ Python       8 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: July 16 Thu, 2026 🌻`
+`Last updated: August 7 Fri, 2026 🌻`
