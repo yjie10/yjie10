@@ -45,9 +45,9 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 23 mins
+Total Time: 1 hr 55 mins
 
-Markdown   2 hrs 23 mins         🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧   100.00 %
+Markdown   1 hr 55 mins          🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧   100.00 %
 ```
 
 <!--END_SECTION:waka-->
