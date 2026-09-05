@@ -47,7 +47,7 @@ Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with ho
 ```txt
 Total Time: 0 secs
 
-Markdown   0 secs                🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
