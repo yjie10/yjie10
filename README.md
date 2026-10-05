@@ -13,11 +13,11 @@
 
 I'm **Yiying**, a full-stack developer. 
 
-Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🥮
+Fueled by kaomojis (๑‾ ꇴ ‾๑), curiosity 👀, and an obsession with how things _feel_. 🍭
 
 𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦𓊯〰❦〰𓊯〰❦
 
-˚₊‧꧁`September 2026`꧂‧₊˚
+˚₊‧꧁`October 2026`꧂‧₊˚
 
 <!--ᓚᘏᗢ _Back to learning (ง๑ •̀ _ •́)ง_ ᗢᘏᓚ-->
 
@@ -56,4 +56,4 @@ TypeScript   1 min                 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧�
 
 Thanks for dropping by! ฅ՞•ﻌ•՞ฅ
 
-`Last updated: September 3 Thu, 2026 🍁`
+`Last updated: October 5 Mon, 2026 🎃`
